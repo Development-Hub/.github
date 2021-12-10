@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://collective.github.io/">
+  <a href="https://github.com/Development-Hub">
     <img width="150px" src="https://o.remove.bg/downloads/d07b8d25-0279-4e26-931b-f9e8ee77ac87/download__1_-removebg-preview.png">
   </a>
 </p>
